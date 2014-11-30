@@ -163,7 +163,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TabControl1)
         Me.Name = "Form1"
-        Me.Text = "Web Browser"
+        Me.Text = "Web Browser v0.1"
         Me.TabControl1.ResumeLayout(False)
         Me.TabPage1.ResumeLayout(False)
         Me.ResumeLayout(False)
